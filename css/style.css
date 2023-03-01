@@ -1,0 +1,43 @@
+.todo .complete-btn {
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  margin-right: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.todo .complete-btn:hover {
+  background-color: #3e8e41;
+}
+
+.todo .edit-btn {
+  background-color: #ffc107;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  margin-right: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.todo .edit-btn:hover {
+  background-color: #e0a800;
+}
+
+.todo .trash-btn {
+  background-color: #f44336;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.todo .trash-btn:hover {
+  background-color: #d32f2f;
+}
