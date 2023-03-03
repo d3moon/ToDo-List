@@ -10,7 +10,7 @@ Este é um desafio consiste em criar um menu para acessar outras telas, e em uma
 **Instalação local:**
 
 ```bash
-  cd ToDoList
+  cd ToDo-List
   <clique 2 vezes para abrir o arquivo index.html no browser>
 ```
     
@@ -18,7 +18,7 @@ Este é um desafio consiste em criar um menu para acessar outras telas, e em uma
 **Instalação via Docker:**
 
 ```bash
-  cd ToDoList
+  cd ToDo-List
   docker-compose build
   docker-compose up
 ```
