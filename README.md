@@ -23,7 +23,7 @@ Este é um desafio consiste em criar um menu para acessar outras telas, e em uma
   docker-compose up
 ```
 
-**Acesse a porta;***
+**Acesse a porta:***
 ```bash 
   http://localhost:8080 
 ```
